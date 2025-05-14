@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bobscoffee_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\services\\qrcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\services\\qrcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\data\\bobscoffeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\data\\bobscoffeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\controllers\\loyaltycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\controllers\\loyaltycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|c:\\bobscoffee_api\\bobscoffee_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoyaltyTransaction.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Models\\LoyaltyTransaction.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Models\\LoyaltyTransaction.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Models\\LoyaltyTransaction.cs",
+              "RelativeToolTip": "bobscoffee_api\\Models\\LoyaltyTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:05:07.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Models\\User.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Models\\User.cs",
+              "RelativeToolTip": "bobscoffee_api\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:51:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "bobscoffee_api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BobsCoffeeContext.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Data\\BobsCoffeeContext.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Data\\BobsCoffeeContext.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Data\\BobsCoffeeContext.cs",
+              "RelativeToolTip": "bobscoffee_api\\Data\\BobsCoffeeContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:49:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QrCodeGenerator.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Services\\QrCodeGenerator.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Services\\QrCodeGenerator.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Services\\QrCodeGenerator.cs",
+              "RelativeToolTip": "bobscoffee_api\\Services\\QrCodeGenerator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:47:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Program.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Program.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Program.cs",
+              "RelativeToolTip": "bobscoffee_api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:49:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoyaltyController.cs",
+              "DocumentMoniker": "C:\\bobscoffee_api\\bobscoffee_api\\Controllers\\LoyaltyController.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Controllers\\LoyaltyController.cs",
+              "ToolTip": "C:\\bobscoffee_api\\bobscoffee_api\\Controllers\\LoyaltyController.cs",
+              "RelativeToolTip": "bobscoffee_api\\Controllers\\LoyaltyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:49:50.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

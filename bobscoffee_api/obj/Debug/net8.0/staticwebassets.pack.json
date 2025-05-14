@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "PackagePath": "staticwebassets\\loyalty_card.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bobscoffee_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bobscoffee_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.bobscoffee_api.props",
+      "PackagePath": "build\\bobscoffee_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.bobscoffee_api.props",
+      "PackagePath": "buildMultiTargeting\\bobscoffee_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.bobscoffee_api.props",
+      "PackagePath": "buildTransitive\\bobscoffee_api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
