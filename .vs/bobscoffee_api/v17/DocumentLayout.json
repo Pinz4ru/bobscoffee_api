@@ -1,12 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\bobscoffee_api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\bobscoffeeApp\\bobscoffee_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|d:\\bobscoffeeapp\\bobscoffee_api\\bobscoffee_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|d:\\bobscoffeeapp\\bobscoffee_api\\bobscoffee_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811F3C20-DE7D-40E8-B38E-314C237B05AF}|bobscoffee_api\\bobscoffee_api.csproj|solutionrelative:bobscoffee_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "authController.cs",
+              "DocumentMoniker": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Controllers\\authController.cs",
+              "ToolTip": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\Controllers\\authController.cs",
+              "RelativeToolTip": "bobscoffee_api\\Controllers\\authController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:43:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "bobscoffee_api\\Models\\User.cs",
+              "ToolTip": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\Models\\User.cs",
+              "RelativeToolTip": "bobscoffee_api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:40:24.694Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
