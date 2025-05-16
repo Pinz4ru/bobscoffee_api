@@ -3,7 +3,6 @@
     public class LoyaltyStats
     {
         public int Id { get; set; }
-        public int TotalUsedCards { get; set; }
+        public int UsedCards { get; set; }
     }
-
 }

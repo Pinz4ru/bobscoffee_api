@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet ef database update")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("bobscoffee_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48afdd991bacd10ea80c76a4fba92314ef9bb61c")]
 [assembly: System.Reflection.AssemblyProductAttribute("bobscoffee_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bobscoffee_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

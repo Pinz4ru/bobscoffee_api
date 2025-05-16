@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bobscoffee_api.props" />
+</Project>

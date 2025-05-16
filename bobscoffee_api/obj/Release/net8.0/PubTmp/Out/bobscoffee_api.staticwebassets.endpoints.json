@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "loyalty_card.bdtd7biah8.jpg",
+      "AssetFile": "loyalty_card.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdtd7biah8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk="
+        },
+        {
+          "Name": "label",
+          "Value": "loyalty_card.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "loyalty_card.jpg",
+      "AssetFile": "loyalty_card.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk="
+        }
+      ]
+    }
+  ]
+}

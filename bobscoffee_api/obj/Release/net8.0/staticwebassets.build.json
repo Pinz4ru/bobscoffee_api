@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "7w0/glQXDki4po25TOIfCySfkX5p79GaERtoOnurlY0=",
+  "Source": "bobscoffee_api",
+  "BasePath": "_content/bobscoffee_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "bobscoffee_api\\wwwroot",
+      "Source": "bobscoffee_api",
+      "ContentRoot": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
+      "BasePath": "_content/bobscoffee_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "SourceId": "bobscoffee_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
+      "BasePath": "_content/bobscoffee_api",
+      "RelativePath": "loyalty_card#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bdtd7biah8",
+      "Integrity": "7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\loyalty_card.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "loyalty_card.bdtd7biah8.jpg",
+      "AssetFile": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdtd7biah8"
+        },
+        {
+          "Name": "label",
+          "Value": "loyalty_card.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk="
+        }
+      ]
+    },
+    {
+      "Route": "loyalty_card.jpg",
+      "AssetFile": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+ggXdZ3pDIsSipMCqCBNUrq+1n7m6oZ7ZWqL2zl9kk="
+        }
+      ]
+    }
+  ]
+}

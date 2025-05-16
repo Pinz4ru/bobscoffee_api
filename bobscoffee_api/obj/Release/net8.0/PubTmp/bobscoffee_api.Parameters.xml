@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bobscoffee-api" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

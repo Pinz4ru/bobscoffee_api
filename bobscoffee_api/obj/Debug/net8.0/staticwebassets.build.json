@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E2mCh+XcMq7v90EENyheUvekfznMWRKGjiF5UFMokB0=",
+  "Hash": "7w0/glQXDki4po25TOIfCySfkX5p79GaERtoOnurlY0=",
   "Source": "bobscoffee_api",
   "BasePath": "_content/bobscoffee_api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "bobscoffee_api\\wwwroot",
       "Source": "bobscoffee_api",
-      "ContentRoot": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
+      "ContentRoot": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
       "BasePath": "_content/bobscoffee_api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "Identity": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
       "SourceId": "bobscoffee_api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
+      "ContentRoot": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\",
       "BasePath": "_content/bobscoffee_api",
       "RelativePath": "loyalty_card#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
   "Endpoints": [
     {
       "Route": "loyalty_card.bdtd7biah8.jpg",
-      "AssetFile": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "AssetFile": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 19:47:32 GMT"
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86,7 +86,7 @@
     },
     {
       "Route": "loyalty_card.jpg",
-      "AssetFile": "C:\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
+      "AssetFile": "D:\\bobscoffeeApp\\bobscoffee_api\\bobscoffee_api\\wwwroot\\loyalty_card.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -107,7 +107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 19:47:32 GMT"
+          "Value": "Wed, 14 May 2025 16:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
