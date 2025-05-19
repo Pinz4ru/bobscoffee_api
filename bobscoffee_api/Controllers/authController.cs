@@ -90,12 +90,6 @@ namespace bobscoffee_api.Controllers
         {
             try
             {
-                if (string.IsNullOrWhiteSpace(request.Username) ||
-                    string.IsNullOrWhiteSpace(request.Password))
-                {
-                    return BadRequest(new { Message = "Username and password are required" });
-                }
-
                 var user = await _authService.LoginAsync(request.Username, request.Password);
 
                 if (user == null)
@@ -103,7 +97,9 @@ namespace bobscoffee_api.Controllers
                     return Unauthorized(new { Message = "Invalid credentials" });
                 }
 
-                _logger.LogInformation($"User logged in: {user.Username}");
+                // Ensure critical fields exist
+                if (string.IsNullOrEmpty(user.Id.ToString()) || string.IsNullOrEmpty(user.Roles))
+                    throw new Exception("User data incomplete");
 
                 return Ok(new AuthResponse
                 {
