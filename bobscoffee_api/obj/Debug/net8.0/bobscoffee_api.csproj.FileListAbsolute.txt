@@ -263,3 +263,12 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\runtimes\browser
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Debug\net8.0\bobscoff.47155168.Up2Date
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

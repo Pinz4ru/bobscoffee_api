@@ -173,3 +173,11 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\bobscoffee_api
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\bobscoffee_api.genruntimeconfig.cache
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\ref\bobscoffee_api.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\BCrypt.Net-Next.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

@@ -1,10 +1,34 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "bobscoffee_api",
-    "version": "1.0"
+    "title": "Bob's Coffee API",
+    "description": "API for Bob's Coffee loyalty system",
+    "version": "v1"
   },
   "paths": {
+    "/api/Admin/{id}/addcoffee": {
+      "post": {
+        "tags": [
+          "Admin"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Auth/register": {
       "post": {
         "tags": [
@@ -14,17 +38,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterRequest"
               }
             }
           }
@@ -45,17 +69,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/LoginRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/LoginRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/LoginRequest"
               }
             }
           }
@@ -89,7 +113,7 @@
         }
       }
     },
-    "/api/Auth/getQr/{username}": {
+    "/api/Auth/qr/{username}": {
       "get": {
         "tags": [
           "Auth"
@@ -111,6 +135,37 @@
         }
       }
     },
+    "/api/Auth/assign-role": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoleAssignmentRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoleAssignmentRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoleAssignmentRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Loyalty/loyaltycard": {
       "get": {
         "tags": [
@@ -122,45 +177,76 @@
           }
         }
       }
+    },
+    "/api/User/{id}": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/User/{id}/qrcode": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
-      "LoyaltyTransaction": {
+      "LoginRequest": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "actionType": {
+          "username": {
             "type": "string",
             "nullable": true
           },
-          "pointsChanged": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "timestamp": {
+          "password": {
             "type": "string",
-            "format": "date-time"
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
+            "nullable": true
           }
         },
         "additionalProperties": false
       },
-      "User": {
+      "RegisterRequest": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
+          "email": {
+            "type": "string",
+            "nullable": true
           },
           "username": {
             "type": "string",
@@ -169,25 +255,23 @@
           "password": {
             "type": "string",
             "nullable": true
-          },
-          "email": {
+          }
+        },
+        "additionalProperties": false
+      },
+      "RoleAssignmentRequest": {
+        "type": "object",
+        "properties": {
+          "username": {
             "type": "string",
             "nullable": true
           },
-          "qrCodePath": {
+          "role": {
             "type": "string",
             "nullable": true
           },
-          "coffeeCount": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "transactions": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/LoyaltyTransaction"
-            },
-            "nullable": true
+          "assign": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

@@ -7,6 +7,7 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\bob
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\BCrypt.Net-Next.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
@@ -18,10 +19,14 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Mic
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Hosting.Abstractions.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Logging.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.ObjectPool.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Options.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.WebEncoders.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
@@ -47,7 +52,9 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\Sys
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.IO.Pipelines.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Runtime.Caching.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.Xml.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Security.Permissions.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Text.Encodings.Web.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\System.Text.Json.dll
@@ -60,6 +67,7 @@ D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\run
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\bobscoffeeApp\bobscoffee_api\bobscoffee_api\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

@@ -15,7 +15,7 @@ public class LoyaltyController : ControllerBase
     [HttpGet("loyaltycard")]
     public IActionResult GetLoyaltyCard()
     {
-        var imagePath = Path.Combine(_env.WebRootPath, "loyalty_card.jpeg");
+        var imagePath = Path.Combine(_env.WebRootPath, "loyalty_card.jpg");
 
         if (!System.IO.File.Exists(imagePath))
         {
